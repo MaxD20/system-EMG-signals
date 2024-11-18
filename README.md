@@ -13,11 +13,12 @@ EMG of Open Hand<br>
 </br>
 EMG of Closed Hand<br>
 <img src="https://github.com/user-attachments/assets/b3dfe7b2-7da2-48ef-8727-7c1fcf5f5458" width="400" height="50%"><br>
-EMG of Bicep</br>
+EMG of Bicep
+</br>
 
 The peak detection method is aiming to mark a red dot on the amplitude of electromyographic signal. For this procedure I used the scipy.signal.find_peaks, a function that take one dimension array and find the maximum by comparing the neighbour values. In the down below figure is observed four consequently contractions of the right-arm bicep, performed from 0 to 6000 milliseconds. The first contraction is noisier due to the friction of the gel electrodes with the surface and the air.<br>
 <img src="https://github.com/user-attachments/assets/bf92f8ce-0b7c-4f15-b8a8-c555c6744998" width="400" height="10%"></br>
 Peaks from bicep electromyography
 
-<img src="https://github.com/user-attachments/assets/824b5148-2c5a-4ddb-b879-1059b4efcbb4" width="30%" height="30%"><br>
+<img src="https://github.com/user-attachments/assets/e97bb2a3-dc2f-4ed5-8ea3-f8f1b12a6feb" width="30%" height="30%"><br>
 EMG Hand Gestures
