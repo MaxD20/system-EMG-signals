@@ -4,7 +4,7 @@ The acquisition system for electromyographic signals consists in a Python algori
 
 In addition, the system stands out for some main reasons: the usage of hand gestures that can be further processed for a prosthetic limb or rehabilitation exercises for wrist stain, the detection of zygomaticus muscle’s signal that can be plotted in order to differentiate a relieved person from a stressed pacient and the eye blink electromyography which can be very useful among persons that suffers from face paralysis and are trying to communicate with the relatives by eyes movement, as so common phrase “blink once for yes, blink twice for no”. 
 
-Nevertheless, the acquisition system also has a part of peek detection algorithm whose purpose is to highlight signal’s spikes with greater amplitude from regular ones and from noise.
+Nevertheless, the acquisition system also has a part of peak detection algorithm whose purpose is to highlight signal’s spikes with greater amplitude from regular ones and from noise.
 
 <img src="https://github.com/user-attachments/assets/ad457247-c338-4ce5-a8e3-7d0388a98ede" width="400" height="300">
 
